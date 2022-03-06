@@ -1,2 +1,2 @@
 # PersonalWebsite
-A personal website, created by Garrett Allred while learning html/css.
+A personal website, created by Edward Xu while learning html/css.
