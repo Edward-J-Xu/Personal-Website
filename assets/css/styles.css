@@ -319,11 +319,15 @@ img {
   z-index: var(--z-back);
 }
 
-.skills__html {
+.skills__c {
   width: 95%;
 }
 
-.skills__css {
+.skills__java {
+  width: 85%;
+}
+
+.skills__python {
   width: 85%;
 }
 
@@ -331,8 +335,20 @@ img {
   width: 65%;
 }
 
-.skills__ux {
-  width: 85%;
+.skills__gt {
+  width: 93%;
+}
+
+.skills__bs {
+  width: 87%;
+}
+
+.skills__dr {
+  width: 79%;
+}
+
+.skills__kb {
+  width: 55%;
 }
 
 .skills__img {
